@@ -1,0 +1,9 @@
+*CRIANDO SOLUÇÕES COM FLUXOGRAMA*
+
+- Fluxograma - uma representação visual gráfica de um algoritmo.
+
+A) Linha de fluxo: indica o fluxo da lógica ao se conectar com os outros símbolos.
+B) Inicio/Fim: representa o início ou fim do fluxograma.
+C) Entrada/Saída: usado para receber entrada ou saída de dados.
+D) Processamento: Usado para operações matemáticas ou manipulação de dados.
+E) Decisão: Usado para tomada de decisão entre duas ou mais alternativas.
