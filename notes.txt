@@ -78,3 +78,7 @@
     - Cada linguagem teu seu tipo, python por ex: listas e arrays.
 
 *SEMPRE PESQUISAR NO GOOGLE CASO NÃO SAIBA FAZER ALGO! SEMPRE!*
+
+Só existem dois estados na mente de um programador...
+  1. "Caramba, como vou resolver isso???"
+  2. "Caramba! Era isso???"
