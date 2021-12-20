@@ -1,0 +1,18 @@
+===LIGAR PARA ALGUÉM===
+
+Monte um algoritmo necessário para ligar para um amigo.
+
+1. Dados necessários: número de celular e telefone.
+2. O que fazer com os dados: utilizar o telefone para discar o número.
+3. Restrições deste problema: caso não atenda, deve deixar uma mensagem dizendo: "me ligue de volta".
+4. Resultado esperado: conseguir falar com o amigo.
+5. Sequência de passos:
+	a) Pegar o telefone.
+	b) Se estiver travado por senha, destravar o celular.
+	c) Verificar se há sinal de operadora,
+	d) Navegue até o discador do celular.
+	e) Digite o número do seu amigo.
+	f) Aperte no botão de ligar
+	g) Aguarde a ligação completar
+	h) Se a lligação completar, conversar com ele.
+	i) Se a ligação não completear, deixa uma mensagem dizendo "me ligue de volta".
