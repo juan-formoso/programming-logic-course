@@ -1,0 +1,5 @@
+===VALOR POR HORA===
+
+Escreva um programa que retorna o valor hora de um funcionário com base no seu salário mensal e horas trabalhadas por mẽs.
+
+Variáveis: valor hora; salário mensal; horas trabalhadas por mês.

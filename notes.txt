@@ -32,3 +32,14 @@
 			3. Quais são as restrições deste problema?
 			4. Qual é o resultado esperado?
 			5. Qual é a sequência de passos a ser feitas para chegar ao resultado esperado?
+
+
+*4 Conceitos OBRIGATÓRIOS para ser capaz de resolver problemas!*
+
+1. Variáveis
+2. Condicionais
+3. Laços de repetição
+4. Coleções
+
+1) VARIÁVEIS
+  - Armazena dados -> boolean, string and numbers.
