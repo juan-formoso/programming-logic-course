@@ -1,0 +1,9 @@
+===MEU SALÁRIO POR HORA===
+
+Escreva um programa que retorne o valor hora de um funcionário com base no seu salário mensal e horas trabalhadas por mês.
+
+- Resolução: necessário fazer o seguinte cálculo => salário mensal/total de horas trabalhadas || Ex:
+	Salário mensal: R$2.500,00
+	Horas trabalhadas: 176 horas
+	2500/176 = R$14.20
+	Salário por hora: R$14.20

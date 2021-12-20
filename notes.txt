@@ -18,4 +18,5 @@
 		- Normal #3 - vai se achar incapaz/insuficiente
 		- Normal #4 - vai gradualmente conseguir resolver problemas mais facilmente.
 
-*Aprendendo a resolver problemas através da análise crítica*
+-> Embora não tenha seja escrito nenhum código, o problema deve ser solucionado e isso é o que importa! :)
+-> Pensar na resolução do problema é tão importante quanto aprender a programar.

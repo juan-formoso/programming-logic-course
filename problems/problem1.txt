@@ -5,6 +5,4 @@ Você precisa criar uma receita e para o seu desenvolvimento será necessário u
 Objetivo: 2ml
 O que tem: 5ml e 3ml
 
-- Minha Resolução: encha o copo de 5ml até o limite, depois despeje a água no copo de 3ml até o limite também. A quantidade de água restante no primeiro copo deverá ser igual a 2ml.
-
-- Gabarito: exatamente igual à minha resolução.
+- Resolução: encha o copo de 5ml até o limite, depois despeje a água no copo de 3ml até o limite também. A quantidade de água restante no primeiro copo deverá ser igual a 2ml.
