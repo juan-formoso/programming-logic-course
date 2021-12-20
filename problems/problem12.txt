@@ -1,0 +1,19 @@
+===FATORIAL DE UM NÚMERO===
+
+Crie um programa que recebe um número e imprime seu fatorial.
+
+Variáveis: número e fatorial.
+
+1. Dados necessários: número.
+2. O que fazer com os dados: capturar o número e realizar a multiplicação de todos os seus antecessores até o número 1. Após, exibir o resultado.
+3. Restrições: necessita de um número e ele precisa ser inteiro e positivo.
+4. Resultado esperado: retornar o fatorial de um número.
+5. Sequência de passos:
+
+  input number
+  if number < 0
+    print "digite apenas números positivos"
+  fatorial = 1
+  loop de 1 a number
+    fatorial = fatorial * number
+  print result
