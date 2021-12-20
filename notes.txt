@@ -70,3 +70,9 @@
     > É possível definir por quantas vezes algo deve ser executado.
     > Pontos de início e fim.
     > Podem estar atrelados a uma condição.
+
+4)COLEÇÕES
+  Em muitos casos, você terá necessidade de trabalhar com coleções de valores que estão armazenados em um local só, ex:
+    - convidados = ['Jeff', 'Amanda', 'Carol', 'Robert']
+    - numeros_premiados = [12, 67, 34, 100, 55]
+    - Cada linguagem teu seu tipo, python por ex: listas e arrays.
