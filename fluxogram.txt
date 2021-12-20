@@ -7,3 +7,13 @@ B) Inicio/Fim: representa o início ou fim do fluxograma. (Bolinha)
 C) Entrada/Saída: usado para receber entrada ou saída de dados. (paralelogramo)
 D) Processamento: Usado para operações matemáticas ou manipulação de dados. (retângulo)
 E) Decisão: Usado para tomada de decisão entre duas ou mais alternativas. (losango)
+
++ Vantagens
+  - Fluxogramas podem ser mais intuitivos de entender para algumas pessoas.
+  - Fluxogramas podem abrir caminho para que pessoas não técnicas entrem no processo de design da solução.
+  - Caso tenha um processo altamente complexo, tentar o quebrar em passos menores em um fluxograma pode deixar a lógica mais explícita e de fácil compreensão.
+
++ Desvantagens
+  - Caso tenha um processo altamente complexo, tentar o quebrar em passos em um fluxograma pode levar muito mais tempo que o pseudocódigo.
+  - O nível de detalhe da informação que é colocada em cada campo pode ter que ser simplificada para deixar o fluxograma mais legível.
+  - Ao tentar representar a lógica de um programa maior, terá um fluxograma possivelmente gigantesco e que não é facilmente lido, a não ser que tenha múltiplos monitores ou imprima o fluxograma em tamanhos grandes o suficiente para serem lidos em uma mesa no trabalho, por exemplo.
