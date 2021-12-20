@@ -1,0 +1,14 @@
+===VALOR POR HORA===
+
+Escreva um programa que retorna o valor de um funcionário com base no seu salário mensal e horas trabalhadas por mês.
+
+1. Dados necessários: salário mensal e horas trabalhadas no mês.
+2. O que fazer com os dados: dividir o salário mensal pela quantidade de horas trabalhadas.
+3. Restrições do problema: os valores devem ser entregues somente no formato de salário por hora.
+4. Resultado esperado: saber o valor da hora.
+5. Sequência de passos:
+  
+  input salario_mensal
+  input horas_trabalhadas
+  valor_hora = salario_mensal / horas_trabalhadas
+  print valor_hora
