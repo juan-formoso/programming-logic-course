@@ -1,0 +1,15 @@
+===EXIBIR O MAIOR DOS DOIS NÚMEROS===
+
+Crie um programa que recebe dois valores e exibe qual é o maior entre eles.
+
+1. Dados necessários: primeiro valor e segundo valor.
+2. O que fazer com os dados: comparar qual o maior entre eles.
+3. Restrições: necessita de dois números, apenas valores inteiros e diferentes.
+4. Resultado esperado: informação sobre qual o maior e qual o menor.
+5. Sequência de passos:
+
+  input value_A
+  input value_B
+  if value_A > value_B
+    print "o primeiro valor é o maior"
+  else print "o segundo valor é o maior"
