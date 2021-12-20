@@ -1,0 +1,19 @@
+*Ciclo de Desenvolvimento de Software*
+	Estágio 1 - Idealização = Montar a ideia
+	Estágio 2 - Especificação de Requisitos = Documentar os requisitos
+	Estágio 3 - Validação da Solução = Verifica se é aquilo que o cliente (ou vc) quer
+	Estágio 4 - Desenvolvimendo e Testes = Coding
+	Estágio 5 - Implantação e Entrega = Ir ao cliente (ou vc) entregar a ele(a) e subir na "web"
+
+
+*O problema que todo iniciante sofre*
+"Me solta! Deixa eu começar a codar!"
+	- Todo iniciante inexperiente
+
+	Erro #1 de quase todo iniciante: querer iniciar o código antes de entender o problema e realizar o algoritmo.
+
+	*Todos* passam por isso:
+		- Normal #1 - vai escrever código lentamente
+		- Normal #2 - vai resolver os mesmos problemas em situações diferentes
+		- Normal #3 - vai se achar incapaz/insuficiente
+		- Normal #4 - vai gradualmente conseguir resolver problemas mais facilmente.
