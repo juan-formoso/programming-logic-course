@@ -1,0 +1,15 @@
+===SOME OS VALORES DE UMA LISTA===
+
+Dados um array de dados "idades" [15, 46, 75, 34, 23] imprima na tela a soma destes valores
+
+1. Dados necessários: a lista de idades.
+2. O que fazer com os dados: somar todos os valores e imprimir na tela o resultado.
+3. Restrições: somar apenas os valores contidos na lista.
+4. Resultado esperado: apenas a soma de todos os valores.
+5. Sequência de passos:
+
+  idades = [15, 46, 75, 34, 23]
+  total = 0
+  loop idade em idades
+    total = total + idade
+  print total
