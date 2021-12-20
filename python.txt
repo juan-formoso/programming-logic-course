@@ -1,0 +1,20 @@
+*O que é Python?*
+
+- 2° LP mais famosa de 2021.
+- Permite criar scripts, sites, mobile apps, sistemas web, desktop apps, IA e muito mais.
+- Excelente para iniciantes.
+- Sintaxe fácil.
+
+*O que vamos aprender?*
+
+- Como criar seu 1° programa Python
+- Como criar e usar variáveis em Python
+- Como criar e usar condicionais em Python
+- Como criar e usar laços de repetição em Python
+- Como usar e criar listas em Python
+
++ 3 mini-projetos em Python
+
+> Projeto 1: Fatorial de um número
+> Projeto 2: Chute o número
+> Projeto 3: Medidor de velocidade
