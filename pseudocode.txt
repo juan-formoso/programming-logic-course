@@ -11,3 +11,12 @@ B) Pseudocódigo
   - Pseudocódigo não é uma linguagem de programação.
   - Pseudocódigo não é padronizado.
   - Não é processado por um computador.
+
+C) Sintaxe do Pseudocódigo
+  - input: recebe dados
+  - print: exibir o resultado no console
+  - if conditional: controla se algo deve ser feito ou não
+  - else: cláusula a ser executada caso nenhuma condicional seja executada
+  - loop de X a Y: irá iterar de X a Y
+  - loop de X em Y: irá iterar X em um array Y
+  - while X: laço que acontecerá enquanto um condição for verdadeira
