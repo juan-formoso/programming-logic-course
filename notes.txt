@@ -77,4 +77,4 @@
     - numeros_premiados = [12, 67, 34, 100, 55]
     - Cada linguagem teu seu tipo, python por ex: listas e arrays.
 
-*SEMPRE PESQUISAR NO GOOGLE CASO NÃO SAIBA FAZER ALGO! SEMPRE!!!*
+*SEMPRE PESQUISAR NO GOOGLE CASO NÃO SAIBA FAZER ALGO! SEMPRE!*
