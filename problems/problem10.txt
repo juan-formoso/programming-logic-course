@@ -1,0 +1,14 @@
+===GERADOR DE BOAS VINDAS===
+
+Crie um programa que pede ao usuário seu nome e depois o dá as boas-vindas dizendo "X seja bem-vindo", onde X é o nome do usuário.
+
+Variáveis: nome do usuário
+
+1. Dados necessários: nome do usuário
+2. O que fazer com os dados: armazenar o nome em uma variável "name" e exibir com a mensagem seja bem vindo
+3. Restrições: possuir um nome para possuir a mensagem
+4. Resultado esperado: "name seja bem-vindo"
+5. Sequência de passos: 
+
+  input name
+  print name + "seja bem-vindo"
