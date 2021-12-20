@@ -4,7 +4,7 @@ Escreva um programa que retorna o valor de um funcionário com base no seu salá
 
 1. Dados necessários: salário mensal e horas trabalhadas no mẽs.
 2. O que fazer com os dados: dividir o salário mensal pelas horas trabalhadas no mês.
-3. Restrições deste problema: os valores devem ser entregues somente em for,  ato de salário por hora.
+3. Restrições deste problema: os valores devem ser entregues somente em formato de salário por hora.
 4. Resultado esperado: saber o valor da hora.
 5. Sequência de passos:
     a) Perguntar quanto a pessoa ganha por mês.

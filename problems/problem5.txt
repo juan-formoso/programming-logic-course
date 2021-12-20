@@ -1,6 +1,15 @@
 ===CHUTE O NÚMERO===
 
 Escreva um programa que, ao iniciar, gera um valor aleatório de 1 a 10 e permite que o usuário chute um número até que o valor aleatório gerado no início do programa seja chutado corretamente.
-Além disso o programa deve informar se o chute foi abaixo ou igual ao valor aleatório gerado no início do programa.
+Além disso o programa deve informar se o chute foi acima, abaixo ou igual ao valor aleatório gerado no início do programa.
 
-// 33:22 no video
+1. Dados necessários: um valor aleatório de 1 a 10 e um chute do usuário.
+2. O que fazer com os dados: pegar o valor aleatório gerado e comparar com o valor chutado pelo usuário. Alertar o usuário sobre a comparação dos valores e o deixar jogar novamente até que acerte o número gerado.
+3. Restrições deste problema: o programa não deve ser finalizado até que um valor seja chutado corretamente. O usuário deve ser capaz de jogar quantas vezes quiser.
+4. Resultado esperado: identificar se o valor chutado é igual ao resultado gerado pelo programa.
+5. Sequência de passos:
+  a) Criar o programa que gera um valor aleatório de 1 a 10 e armazena esse valor.
+  b) Permitir que o usuário chute um número e capturá-lo.
+  c) Comparar os valores.
+  d) Retornar se o valor chutado foi igual, acima ou abaixo do valor gerado.
+  e) Caso seja abaixo ou acima volte ao passo B.
