@@ -1,1 +1,13 @@
 *CRIANDO SOLUÇÕES EM PSEUDOCÓDIGO DO BÁSICO AO AVANÇADO*
+
+A) Como podemos demonstrar a solução para um problema?
+  1. Pseudocódigo
+  2. Fluxograma
+    - Qual a melhor? Qual usar? 
+    - Não existe essa resposta, depende de você.
+
+B) Pseudocódigo
+  - É uma descrição dos passos necessários para resolver um determinado problema em uma linguagem natural que não está ligada diretamente a uma linguagem de programação.
+  - Pseudocódigo não é uma linguagem de programação.
+  - Pseudocódigo não é padronizado.
+  - Não é processado por um computador.
