@@ -43,3 +43,8 @@
 
 1) VARIÁVEIS
   - Armazena dados -> boolean, string and numbers.
+  - informações como datas, coisas para comprar no mercado, nome de pessoas.
+
+2) CONDICIONAIS
+  - Quando algguém te oferece um panfleto na rua vocẽ pega ele sem pensar?
+  - Quando descobre que algo que você quer muito comprar está em promoção, você compra sem pensar?

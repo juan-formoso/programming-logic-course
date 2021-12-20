@@ -1,0 +1,9 @@
+===CHUTE O NÚMERO===
+
+Escreva um programa que, ao iniciar, gera um valor aleatório de 1 a 10 e permite que o usuário chute um número até que o valor aleatório gerado no início do programa seja chutado corretamente.
+Além disso o programa deve informar se o chute foi acima, abaixo ou igual ao valor aleatório gerado no início do programa.
+
+Condicionais:
+  - Se o número chutado for mais alto, avise ao usuário que ele deve chutar mais baixo.
+  - Se o número chutado for mais baixo, avise ao usuário que ele deve chutar mais alto.
+  - Se o número chutado for igual, então avise que ele acertou.
