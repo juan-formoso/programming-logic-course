@@ -48,3 +48,25 @@
 2) CONDICIONAIS
   - Quando algguém te oferece um panfleto na rua vocẽ pega ele sem pensar?
   - Quando descobre que algo que você quer muito comprar está em promoção, você compra sem pensar?
+
+3) LAÇOS DE REPETIÇÃO
+  - No mundo real e na programação, temos diversas situações onde precisamos fazer uma ação várias vezes ou por uma determinada quantidade de vezes. Ex: cortar um pão, varrer o chão.
+  - Laços de repetição em casos real (games): para derrubar uma árvore em um jogo são necessárias 11 machadadas.
+  - Outro exemplo: Crie um programa que recebe um número e o incrementa 1 por 10 vezes.
+    > valor = 10
+    > 1° repetição | valor = valor + 1 | 11
+    > 2° repetição | valor = valor + 1 | 12
+    > 3° repetição | valor = valor + 1 | 13
+    > 4° repetição | valor = valor + 1 | 14
+    > 5° repetição | valor = valor + 1 | 15
+    > 6° repetição | valor = valor + 1 | 16
+    > 7° repetição | valor = valor + 1 | 17
+    > 8° repetição | valor = valor + 1 | 18
+    > 9° repetição | valor = valor + 1 | 19
+    > 10° repetição | valor = valor + 1 | 20
+  - Ponto em comum: normalmente possuem um ponto inicial e um ponto final, ou em alguns casos uma condição que irá significar o final daquele laço de repetição. Ex: encha o copo de água até que ele fique cheio.
+  - Pontos chaves:
+    > Úteis para conseguir automatizar processos.
+    > É possível definir por quantas vezes algo deve ser executado.
+    > Pontos de início e fim.
+    > Podem estar atrelados a uma condição.
