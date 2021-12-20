@@ -1,0 +1,24 @@
+===CHUTE O NÚMERO===
+
+Escreva um programa que, ao iniciar, gera um valor aleatório de 1 a 10 e permite que o usuário chute um número até que o valor aleatório gerado no início do programa seja chutado corretamente.
+Além disso o programa deve informar se o chute foi acima, abaixo ou igual ao valor aleatório gerado no início do programa.
+
+1. Dados necessários: número gerado e o número chutado.
+2. O que fazer com os dados: comparar os dois valores e dizer se o chute foi maior, menor ou igual ao valor aleatório.
+3. Restrições: o programa não deve ser finalizado até que o usuário acerte o número gerado.
+4. Resultado esperado: informa se o valor chutado foi igual ao valor gerado, caso não seja então deve permitir o usuário continuar jogando.
+5. Sequência de passos:
+
+  input random_number entre 1 a 10
+  acertou = false
+  while acertou = false
+    input chute
+    if chute > random_number
+      print "Chute é maior que o valor gerado"
+    if chute < random_number
+      print "Chute é menor que o valor gerado"
+    if chute = random_number
+      print "Acertou o chute!"
+      acertou = true
+    else
+      print "Você chutou um valor inválido."
