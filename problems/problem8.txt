@@ -1,0 +1,9 @@
+===CHUTE O NÚMERO===
+
+Dado uma coleção de dados "idades"
+[15, 46, 75, 34, 23] imprima na tela a soma destes valores.
+
+Resolução:
+  - Definir o total como 0
+  - Passar por cada valor e somar ele ao total.
+  - Exibir o valor total.
