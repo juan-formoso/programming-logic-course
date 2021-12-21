@@ -15,3 +15,18 @@ print(diversidades[2])
 # Laços em iteráveis.
 for preco in precos:
   print(preco)
+
+'''
+# Exemplo 5 - Some os valores
+Dados um coleçaõ de dados "idades" [10, 20, 30, 40, 50] imprima na tela a soma destes valores.
+
+idades = [10, 20, 30, 40, 50]
+soma = 0
+loop idade em idades
+  soma = total + idade
+print soma
+'''
+idades = [10, 20, 30, 40, 50]
+total = 0
+for idade in idades:
+  total = total + idade
