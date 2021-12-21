@@ -30,3 +30,4 @@ idades = [10, 20, 30, 40, 50]
 total = 0
 for idade in idades:
   total = total + idade
+print(total)
